@@ -1,6 +1,6 @@
 # open_gate
 
-A new Flutter project.
+This is an application that is suppose to be used to control an sms gateway
 
 ## Getting Started
 
